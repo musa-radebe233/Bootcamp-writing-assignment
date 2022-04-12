@@ -1,0 +1,2 @@
+Plagiarism is illegal and a punishable criminal offence, I don’t believe engaging in any criminal offence would be wise.
+Taking the time to fully understand the content you’re engaged in is crucial in equipping you with mental independence, it exercises the mind to enable it to cope with challenges of any sort, furthermore, you become coherent and articulate when speaking your mind. Not matter how trivial the content might be learning to understand teaches you to simplify complicated problems a skill that is in high demand.
