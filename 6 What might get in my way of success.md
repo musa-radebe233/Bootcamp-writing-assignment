@@ -1,1 +1,0 @@
-I’m currently unemployed and in need of a job, one of the issues I sense I might come across is data for internet access; secondly if I do get a job opportunity it might be difficult to reject the offer and I’m not sure whether a job will be a substantial distraction.
