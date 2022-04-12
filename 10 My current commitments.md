@@ -1,1 +1,0 @@
-I currently hold no occupation of any sort, however, because of financial constraints I did have to defer one module to this year, it’s based on research and done remotely.
