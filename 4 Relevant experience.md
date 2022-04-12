@@ -1,1 +1,0 @@
-I have no specific experience that is line with programming, although I do have experience with excel (What if statements, IF and nested IF statements etc.).
