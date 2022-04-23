@@ -3,7 +3,7 @@ def convert_to_min(time):
     hours_and_minutes = float(time/60)
     minute = (hours_and_minutes - hour) * 60
     return hour, minute
-print(convert_to_min(71))
+print(convert_to_min(5))
 
 
 
