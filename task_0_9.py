@@ -7,7 +7,7 @@ def vowel(text):
     for i in d:
         if i in vowels and i != d.upper():
             print(",", i, end = '')
-vowel(list("Umuzii"))
+vowel(list("Umuzi"))
 
 
 
