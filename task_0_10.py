@@ -3,7 +3,7 @@ def common_letters(var1, var2):
    s2 = set(var2)
    words = list(s1 & s2)
    for i in words:
-      print(i,",", end = '')  
+      print(i, end = ' ,')  
 common_letters("house","mouse")
 
 
