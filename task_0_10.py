@@ -4,7 +4,8 @@ def common_letters(var1, var2):
    words = list(s1 & s2)
    print("Common letters:",end = ' ')
    for i in words:
-      print(i.lower(), end = ', ')  
+      if i in words and i != empty_string.upper():
+         print(i.lower(), end =', ')  
 common_letters("house","mouse")
 
 
