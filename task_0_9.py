@@ -1,11 +1,11 @@
 def vowel(text):
     vowels = ["a","e","i","o","u"]
-    d = ""
+    empty_string = ""
     print("Vowels:", end = '')
     for i in text:
-        if i in vowels and i != d.upper():
+        if i in vowels and i != empty_string.upper():
             print(i, end = ' ,')
-vowel(list("Umuzi"))
+vowel("Umuzi")
 
 
 
