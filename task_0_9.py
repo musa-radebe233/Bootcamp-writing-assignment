@@ -4,7 +4,7 @@ def vowel(text):
     print("Vowels:", end = ' ')
     for i in text:
         if i in vowels and i != empty_string.upper():
-            print(i, end = ', ')
+            print(i.lower(), end = ', ')
 vowel("Umuzi")
 
 
