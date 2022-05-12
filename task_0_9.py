@@ -1,10 +1,8 @@
 def vowel(text):
-    vowels = ["a","e","i","o","u"]
-    empty_string = ""
-    print("Vowels:", end = ' ')
-    for i in text:
-        if i in vowels and i != empty_string.upper():
-            print(i.lower(), end = ', ')
+   vowels = "aeiou"
+    words = set(vowel for vowel in text.lower() if vowel in vowels)
+    letters = ",".join(words)
+    print(f" Vowels: {letters}")
 vowel("Umuzi")
 
 
